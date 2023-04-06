@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 7vh;
+    position: fixed;
+    opacity: 0,7;
+}
+.nav{
+    /* background-color: gold; */
+    width: 85%;
+    height: 100;
+    margin: 0 auto;
+    padding-top: 1rem;
+    opacity: 0.7;
+}
+.li{
+    display: inline-block;
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+.text-none{
+    text-decoration: none;
+}
+.div{
+    background: linear-gradient( 198deg, #f01865 , #fc5c11);
+    width: 100%;
+    height: 90vh;
+}
+.sinif{
+    width: 40vh;
+    height: 20vh;
+    padding: 35vh;
+}
+.div2{
+  margin-left: 44vh;
+  color: white;
+  font-size: 3rem;
+}
+.div1{
+    margin-left: 35vh;
+    color: white;
+    font-size: 3rem;
+}
+.button{
+    width: 20vh ;
+    height: 5vh ;
+    background-color: fuchsia;
+    color: white;
+    border-radius: 8px;
+    margin-left: 55vh ;
+    font-size: larger;
+}
+.divv{
+    font-size: xx-large;
+    margin-left: 50vh;
+}
+.nav-bar1{
+    /* background-color: blueviolet; */
+    width: 60%;
+    height: 50vh;
+    margin-left: 27vh;
+    padding: 10vh;
+    margin-top: 10vh;
+}
+.divv1{
+    font-size: 3rem;
+}
+.spann{
+    font-size: large ;
+}
+.img1{
+    width: 50%;
+    height: 50vh;
+    margin-left: 90vh;
+    padding: -10vh;
+    border-radius: 50%;
+    margin-top: 10vh ;
+}
+.div6{
+    width: 70%;
+    height: 35vh;
+    margin-top: -35vh;
+    margin-left: -5vw;
+}
+.nav-bar2{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 20vh;
+    text-align: center;
+    padding: 10vh;
+}
